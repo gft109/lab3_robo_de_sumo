@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+
+# VS Code — arquivos gerados pelo PlatformIO, específicos de cada máquina
+.vscode/*
+!.vscode/extensions.json
+
+# Credenciais
+include/secrets.h
+
+# macOS
+.DS_Store
